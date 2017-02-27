@@ -1,0 +1,102 @@
+.p-container {
+    width: 100%;
+    height: 100%;
+	margin: 0 auto;
+	background-color: #ccc;
+}
+.head {
+	width: 100%;
+	height: 60px;
+	background-color: #333333;
+}
+.head img {
+	margin-left: 40px;
+	margin-top: 4px;
+}
+.head .h-nav {
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+.head .h-nav ul li {
+	float: left;
+	margin-left: 16px;
+}
+.head .h-nav ul li a {
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "黑体";
+	color: #fff;
+}
+.head .h-nav ul li a:nth-child(4){
+	color:#ccc;
+}
+
+.body .b-item1 {
+	width:1236px;
+	height: 700px;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.body .b-item2 {
+	width:1236px;
+	height: 700px;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.body .b-item3 {
+	width:1236px;
+	height: 100%;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.body .b-item3 div {
+	width: 100px;
+	border: 1px solid #000;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.body .b-item4 {
+	width:1236px;
+	height: 700px;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.body .b-item4 ol {
+	margin-left: 20px;
+}
+.body .b-item4 table,th,td {
+	border: 2px solid #000;
+	border-collapse: collapse;
+	width: 900px;
+	height: 30px;
+	font-family: "Microsoft YaHei","微软雅黑";
+}
+.body .b-item4 thead {
+	background-color: #333;
+}
+.body .b-item4 tfoot {
+	background-color: #ccc;
+}
+.body .b-item5 {
+	width:1236px;
+	height: 700px;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.foot {
+	width: 100%;
+	height: 70px;
+	background-color: #000;
+	margin-top: 10px;
+}
+.foot p {
+	color: #fff;
+	text-align: center;
+	padding-top: 20px;
+}
